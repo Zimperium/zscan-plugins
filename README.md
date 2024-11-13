@@ -17,6 +17,7 @@ Currently, we offer plugins for the following CI/CD platforms:
 2. [**GoCD**](https://github.com/Zimperium/zscan-plugin-gocd): Add zScan as a step in your GoCD workflows to maintain mobile app security in every deployment.
 3. [**Bitrise**](https://github.com/Zimperium/zscan-plugin-bitrise): Leverage zScan within Bitrise to automatically scan mobile applications during your CI/CD process.
 4. [**Harness**](https://github.com/Zimperium/zscan-plugin-harness): Integrate zScan in Harness to ensure security compliance and manage vulnerabilities before each release.
+5. [**GitHib Action**](https://github.com/marketplace/actions/zimperium-zscan): Configure zScan Workflow for your repository to enable automated scanning of changes made to the application.
 
 Each plugin includes detailed documentation and configuration options to get you up and running quickly.
 
