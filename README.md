@@ -18,6 +18,8 @@ Currently, we offer plugins for the following CI/CD platforms:
 3. [**Bitrise**](https://github.com/Zimperium/zscan-plugin-bitrise): Leverage zScan within Bitrise to automatically scan mobile applications during your CI/CD process.
 4. [**Harness**](https://github.com/Zimperium/zscan-plugin-harness): Integrate zScan in Harness to ensure security compliance and manage vulnerabilities before each release.
 5. [**GitHub Action**](https://github.com/marketplace/actions/zimperium-zscan): Configure zScan Workflow for your repository to enable automated scanning of changes made to the application.
+6. [**GitLab**](https://github.com/Zimperium/zscan-plugin-gitlab): Add zScan to a GitLab Pipeline to enable automated scanning and vulnerability reporting as part of your CI/CD process.
+7. [**TeamCity**](https://github.com/Zimperium/zscan-plugin-teamcity): Add zScan to a TeamCity Build Configuration enable automated scanning as part of your CI/CD process.
 
 Each plugin includes detailed documentation and configuration options to get you up and running quickly.
 
