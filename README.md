@@ -20,6 +20,7 @@ Currently, we offer plugins for the following CI/CD platforms:
 5. [**GitHub Action**](https://github.com/marketplace/actions/zimperium-zscan): Configure zScan Workflow for your repository to enable automated scanning of changes made to the application.
 6. [**GitLab**](https://github.com/Zimperium/zscan-plugin-gitlab): Add zScan to a GitLab Pipeline to enable automated scanning and vulnerability reporting as part of your CI/CD process.
 7. [**TeamCity**](https://github.com/Zimperium/zscan-plugin-teamcity): Add zScan to a TeamCity Build Configuration enable automated scanning as part of your CI/CD process.
+8. [**Azure DevOps**](https://github.com/Zimperium/zscan-plugin-ado): Integrate zScan into ADO Pipelines using the PowerShell v2 Task. The powerShell script in this repository can be used standalone from command line prompt or another CI/CD environment on Linux, Windows, or MacOS hosts. 
 
 Each plugin includes detailed documentation and configuration options to get you up and running quickly.
 
