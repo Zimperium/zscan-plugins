@@ -4,9 +4,9 @@ Welcome to the official repository for **Zimperium zScan plugins**. Here, you'll
 
 ## Overview
 
-Zimperium zScan helps you automate the security assessment of your mobile applications, detecting potential vulnerabilities and ensuring compliance with security standards. 
+Zimperium zScan helps you automate the security assessment of your mobile applications, detecting potential vulnerabilities and ensuring compliance with security standards.
 
-Our plugins are open source, providing flexibility and community-driven improvements to help you tailor integrations that meet your CI/CD needs. 
+Our plugins are open source, providing flexibility and community-driven improvements to help you tailor integrations that meet your CI/CD needs.
 By using our plugins, you can integrate zScan directly into your CI/CD workflow, enabling continuous mobile app security testing across various stages of development.
 
 ## Available Plugins
