@@ -4,23 +4,23 @@ Welcome to the official repository for **Zimperium zScan plugins**. Here, you'll
 
 ## Overview
 
-Zimperium zScan helps you automate the security assessment of your mobile applications, detecting potential vulnerabilities and ensuring compliance with security standards. 
+Zimperium zScan helps you automate the security assessment of your mobile applications, detecting potential vulnerabilities and ensuring compliance with security standards.
 
-Our plugins are open source, providing flexibility and community-driven improvements to help you tailor integrations that meet your CI/CD needs. 
+Our plugins are open source, providing flexibility and community-driven improvements to help you tailor integrations that meet your CI/CD needs.
 By using our plugins, you can integrate zScan directly into your CI/CD workflow, enabling continuous mobile app security testing across various stages of development.
 
 ## Available Plugins
 
 Currently, we offer plugins for the following CI/CD platforms:
 
-1. [**Jenkins**](https://github.com/Zimperium/zscan-plugin-jenkins): Integrate zScan directly into your Jenkins pipeline, enabling automated security scans for every build.
+1. [**Jenkins**](https://plugins.jenkins.io/zscan-upload/): Integrate zScan directly into your Jenkins pipeline, enabling automated security scans for every build.
 2. [**GoCD**](https://github.com/Zimperium/zscan-plugin-gocd): Add zScan as a step in your GoCD workflows to maintain mobile app security in every deployment.
 3. [**Bitrise**](https://github.com/Zimperium/zscan-plugin-bitrise): Leverage zScan within Bitrise to automatically scan mobile applications during your CI/CD process.
 4. [**Harness**](https://github.com/Zimperium/zscan-plugin-harness): Integrate zScan in Harness to ensure security compliance and manage vulnerabilities before each release.
 5. [**GitHub Action**](https://github.com/marketplace/actions/zimperium-zscan): Configure zScan Workflow for your repository to enable automated scanning of changes made to the application.
 6. [**GitLab**](https://github.com/Zimperium/zscan-plugin-gitlab): Add zScan to a GitLab Pipeline to enable automated scanning and vulnerability reporting as part of your CI/CD process.
 7. [**TeamCity**](https://github.com/Zimperium/zscan-plugin-teamcity): Add zScan to a TeamCity Build Configuration enable automated scanning as part of your CI/CD process.
-8. [**Azure DevOps**](https://github.com/Zimperium/zscan-plugin-ado): Integrate zScan into ADO Pipelines using the PowerShell v2 Task. The powerShell script in this repository can be used standalone from command line prompt or another CI/CD environment on Linux, Windows, or MacOS hosts. 
+8. [**Azure DevOps**](https://github.com/Zimperium/zscan-plugin-ado): Integrate zScan into ADO Pipelines using the PowerShell v2 Task. The PowerShell Core script in this repository can be used standalone from command line prompt or another CI/CD environment on Linux, Windows, or MacOS hosts.
 
 Each plugin includes detailed documentation and configuration options to get you up and running quickly.
 
